@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @keenu1227
-- 👀 I’m interested in trading.
-- 🌱 I’m currently learning lua.
+- 👀 I’m interested in BTC trading.
+- 🌱 I’m currently learning lua/python.
 - 💞️ I’m looking to collaborate on HFT system.
-- 📫 How to reach me keenu1227@gmail.com
+- 📫 How to reach me : keenu1227@gmail.com
 
 <!---
 keenu1227/keenu1227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
