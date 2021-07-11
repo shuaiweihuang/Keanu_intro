@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @keenu1227
 - 👀 I’m interested in BTC trading.
-- 🌱 I’m currently learning lua/python.
-- 💞️ I’m looking to collaborate on HFT system.
+- 🌱 I’m currently learning lua/go.
+- 💞️ I’m looking to collaborate on HFT project.
 - 📫 How to reach me : keenu1227@gmail.com
 
 <!---
