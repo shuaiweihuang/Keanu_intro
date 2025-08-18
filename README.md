@@ -1,6 +1,6 @@
 👋 Hi, I'm Keanu Huang  
 🚀 Quantitative Trading & HFT Specialist
-⚡ 5+ years experience in algorithmic crypto trading systems  
+⚡ 6+ years experience(since 2019) in algorithmic crypto trading systems  
 
 🔥 Core Expertise:  
 - High-Frequency Trading (HFT) infrastructure development  
