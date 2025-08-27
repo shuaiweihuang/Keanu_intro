@@ -7,12 +7,12 @@
 - BTC/ETH market-making strategies  
 - Order book liquidity analysis  
 - Low-latency execution systems (C++/Python/Go)  
-- Statistical arbitrage models  
+- Statistical arbitrage models
+- Walk-Forward Optimization (WFO) & Grid Trading strategies
 
 💞️ Seeking collaboration on:  
 - Next-gen HFT platforms  
 - Crypto derivatives pricing engines  
-- MEV capture systems  
 - Blockchain L1/L2 trading infrastructure
 
 📫 Reach me:  
