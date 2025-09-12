@@ -16,5 +16,5 @@
 - Blockchain L1/L2 trading infrastructure
 
 📫 Reach me:  
-- mail to: shuaiwei.huang@gmail.com
+- Mail: shuaiwei.huang@gmail.com
 - LinkedIn: https://www.linkedin.com/in/keanuhuang/
