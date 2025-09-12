@@ -17,3 +17,4 @@
 
 📫 Reach me:  
 - mail to: shuaiwei.huang@gmail.com
+- LinkedIn: https://www.linkedin.com/in/keanuhuang/
