@@ -1,4 +1,4 @@
-👋 Hi, I'm Keanu Huang  
+👋 Hi, I'm Shuaiwei Huang  
 🚀 Quantitative Trading & HFT Specialist
 ⚡ 6+ years experience(since 2019) in algorithmic crypto trading systems  
 
